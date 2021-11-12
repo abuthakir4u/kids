@@ -1,5 +1,4 @@
-Please teach kids to find following keys in computer keyboard
-
+# Please teach kids to find following keys in computer keyboard
 - Escape key
 - Control key
 - Alt key
@@ -24,7 +23,7 @@ Please teach kids to find following keys in computer keyboard
 - How to type any character in caps
 - How to type all characters in caps
 
-Please help kids to find following in mouse
+# Please help kids to find following in mouse
 - Left click
 - Right click
 - Scroll top
