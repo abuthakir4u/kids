@@ -1,4 +1,35 @@
-# General
-- How to read time from analogue clock
-- Finger names
+Please teach kids to find following keys in computer keyboard
 
+- Escape key
+- Control key
+- Alt key
+- Windows key
+- Tab key
+- Caps Lock key
+- Shift key
+- Enter key
+- Spacebar key
+- up arrow
+- down arrow
+- left arrow
+- right arrow
+- Comma
+- Dot
+- Semicolon
+- Colon
+- Minus
+- Plus
+- Equal
+- How to type: @ # $ % & *
+- How to type any character in caps
+- How to type all characters in caps
+
+Please help kids to find following in mouse
+- Left click
+- Right click
+- Scroll top
+- Scroll bottom
+- Single click
+- Double click
+
+Thanks.
