@@ -1,4 +1,4 @@
-# Please teach kids to find following keys in computer keyboard
+# Please help kids to find following keys in computer keyboard
 - Escape key
 - Control key
 - Alt key
@@ -30,5 +30,13 @@
 - Scroll bottom
 - Single click
 - Double click
+
+# Please help kids to find following in computer
+- Display/monitor
+- Power button
+- Charging port
+- USB port
+- HDMI port
+- Eithernet/Lan cable port
 
 Thanks.
