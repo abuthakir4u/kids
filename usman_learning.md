@@ -39,4 +39,15 @@
 - HDMI port
 - Eithernet/Lan cable port
 
+# Please help kids to find following
+In any square space
+- top left
+- top right
+- bottom left
+- bottom right
+- left corner
+- right corner
+- middle
+
+
 Thanks.
