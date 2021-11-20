@@ -86,4 +86,14 @@ In any square space
 - How to open a link in new window
 - How to referesh a browser
 
+# Email
+- What is email
+- How to login to email
+- How to read email
+- How to delete email
+- How to write a new email
+- How to send email with attachment
+- How to download an attachment from an email
+- How to download an attachment in the folder
+
 Thanks.
