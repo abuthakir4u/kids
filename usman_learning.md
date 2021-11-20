@@ -41,6 +41,8 @@
 
 # Please help kids to find following
 In any square space
+- top and bottom
+- left and right
 - top left
 - top right
 - bottom left
@@ -49,5 +51,22 @@ In any square space
 - right corner
 - middle
 
+# Zoom call
+- how to mute and un mute
+- how to enable and disable video
+- how to do screenshare
+
+# How to use windows explorer
+- What is windows
+- What is desktop
+- How to minimize and maximize any window
+- How to minimize all windows to see screen
+- How to make a window big
+- What are drives c: d:
+- what is folder
+- How to create and delete folder
+
+# How to create text file
+- Using notepad to save text
 
 Thanks.
