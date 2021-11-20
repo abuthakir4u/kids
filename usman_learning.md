@@ -22,6 +22,7 @@
 - How to type: @ # $ % & *
 - How to type any character in caps
 - How to type all characters in caps
+- What is a function key
 
 # Please help kids to find following in mouse
 - Left click
@@ -65,8 +66,23 @@ In any square space
 - What are drives c: d:
 - what is folder
 - How to create and delete folder
+- How to switch tab Alt + Tab
 
 # How to create text file
 - Using notepad to save text
+
+# Browser
+- What are all browser available
+- How to open browser
+- How to open browser tab
+- How to open browser tab in new window
+- What is address bar
+- What is an URL
+- What is username and password
+- What is text box
+- What is a button
+- What is a link and how to click
+- How to open a link in new window
+- How to referesh a browser
 
 Thanks.
