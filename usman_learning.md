@@ -21,8 +21,9 @@
 - Equal
 - How to type: @ # $ % & *
 - How to type any character in caps
-- How to type all characters in caps
+- How to type all characters in caps - caps lock
 - What is a function key
+- How to type character at top of each key - with shift
 
 # Please help kids to find following in mouse
 - Left click
